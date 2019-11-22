@@ -6,8 +6,17 @@ HAL (Have A Look) is a program put on by [Tacoma Public Library](https://www.tac
 
 This purpose of this repository is to provide a centralized and easily accessibly archive of HAL participant projects as well as teaching materials and plans for future sessions.
 
+For more information, please visit [https://www.tacomalibrary.org/](https://www.tacomalibrary.org/).
+
 ## Guidelines
 
 [TBD]
 
 ## Directory
+
+[WIP]
+
+## Resources
+
+[Dcoder](https://dcoder.tech/)<br>
+[w3schools](https://www.w3schools.com/)<br>
