@@ -6,7 +6,12 @@
 
 Introduction to SQL and database management. Finish table creation activity.
 
-## Resources
+## Future topic ideas
 
-[w3schools](https://www.w3schools.com/)<br>
-[Dcoder](https://dcoder.tech/)<br>
+Overview of computer languages
+- Popular languages and their uses
+- What and why they’re different from each other (Java, C-based, Compilers vs. Scripters)
+
+Computers and security:
+- How security applies to the average user
+- How to stay safe on public networks and online
