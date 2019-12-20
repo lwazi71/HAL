@@ -2,9 +2,9 @@
 
 ## Schedule
 
-### November 23, 2019
+### December 21, 2019
 
-Introduction to SQL and database management. Finish table creation activity.
+Dcoder.tech Javascript challenges.
 
 ## Future topic ideas
 
