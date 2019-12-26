@@ -10,7 +10,7 @@ For more information, please visit [https://www.tacomalibrary.org/](https://www.
 
 ## Guidelines
 
-[TBD]
+Projects and activities will be ordered in reverse chronological order: from the most recent projects to prior projects and will start with a date in the format YYYY-MM-DD.
 
 ## Directory
 
