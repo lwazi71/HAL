@@ -12,9 +12,10 @@ For more information, please visit [https://www.tacomalibrary.org/](https://www.
 
 Projects and activities will be ordered in reverse chronological order: from the most recent projects to prior projects and will start with a date in the format YYYY-MM-DD.
 
-## Directory
+## Activity for Saturday, January 4, 2020
 
-[WIP]
+Each student will begin work on their own custom web page using CSS/HTML and w3schools tutorials (see resources below). Once complete we will publish student works live to the internet!
+
 
 ## Resources
 
