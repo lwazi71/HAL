@@ -1,11 +1,5 @@
 # Planning
 
-## Schedule
-
-### December 21, 2019
-
-Dcoder.tech Javascript challenges.
-
 ## Future topic ideas
 
 Overview of computer languages
