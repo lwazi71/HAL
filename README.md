@@ -11,5 +11,5 @@ HAL (which stands for "Have A Look" and is inspired by the fictional artificial 
 ## More
 
 [Contribution guidelines](CONTRIBUTING.md)<br>
-[Plans for the future](docs/roadmap.md)<br>
 [Resources](docs/resources.md)<br>
+[Roadmap](docs/roadmap.md)<br>
