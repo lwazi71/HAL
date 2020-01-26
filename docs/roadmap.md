@@ -1,8 +1,8 @@
-# Planning
+# Roadmap
 
 ## Future topic ideas
 
-Overview of computer languages
+Overview of computer languages:
 - Popular languages and their uses
 - What and why they’re different from each other (Java, C-based, Compilers vs. Scripters)
 
