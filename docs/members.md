@@ -1,4 +1,4 @@
-# Member repositories
+# Member profiles
 
 Ben C - [https://github.com/lunatic-coding](https://github.com/lunatic-coding)<br>
 John H - [https://github.com/DMLstaff](https://github.com/DMLstaff)<br>
