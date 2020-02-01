@@ -12,4 +12,4 @@ HAL (which stands for "Have A Look" and is inspired by the fictional artificial 
 
 [Contribution guidelines](CONTRIBUTING.md)<br>
 [Resources](docs/resources.md)<br>
-[Roadmap](docs/roadmap.md)<br>
+[Roadmap](https://github.com/orgs/TPL-HAL/projects/3)<br>
